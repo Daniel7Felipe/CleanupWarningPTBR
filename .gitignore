@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+.idea/
+*.DotSettings.user
+*.conf.*
+
+#NuGet
+/packages/
+!packages/repositories.config
+
+VRageBinaries/
+TorchBinaries/
+CleanupWarning/Data/
+GameBinaries/

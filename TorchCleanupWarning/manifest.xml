@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <Name>CleanupWarning</Name>
+
+  <Guid>f9385d2f-d1e3-4327-b5d1-53c440a2b562</Guid>
+
+  <Repository>None</Repository>
+
+  <Version>v1.0.7917.36854</Version>
+
+</PluginManifest>
